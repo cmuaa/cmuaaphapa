@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//CMU Alumni//Phapa 2026//TH
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:phapa-20261016@cmualumni.or.th
+DTSTAMP:20261002T061619Z
+DTSTART:20261016T023000Z
+SUMMARY:ผ้าป่าการกุศลเพื่อทุนก
+ ารศึกษา มช. 2569
+LOCATION:ศาลาธรรม มหาวิทยาลัยเช
+ ียงใหม่
+DESCRIPTION:พิธีทอดถวายผ้าป่าการก
+ ุศลเพื่อทุนการศึกษาสำหรั
+ บนักศึกษามหาวิทยาลัยเชีย
+ งใหม่\nวันศุกร์ที่ 16 ตุลาคม 2
+ 569 เวลา 09:30 น.\nจัดโดยสมาคมนักศ
+ ึกษาเก่ามหาวิทยาลัยเชียง
+ ใหม่\nสอบถาม 088-2679580 หรือ 053-216227
+URL:https://cmuaa.github.io/phapa/
+END:VEVENT
+END:VCALENDAR

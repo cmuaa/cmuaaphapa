@@ -1,0 +1,5 @@
+Google Sans variable webfonts, normal, weights 400–700.
+Unmodified Thai, Latin and Latin Extended WOFF2 subsets downloaded from the official Google Fonts CSS API on 2026-10-02.
+CSS API: https://fonts.googleapis.com/css2?family=Google+Sans:wght@400..700&display=swap
+Source: https://github.com/googlefonts/googlesans
+License: SIL Open Font License 1.1 (OFL.txt).
